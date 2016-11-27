@@ -20,6 +20,6 @@ body {
     height: 200px;
 }
 @font-face {
-  font-family: 'Inconsolata';
+  font-family: 'Indie Flower', cursive;
   src: local('Inconsolata'), url('https://themes.googleusercontent.com/fonts/font?kit=J_eeEGgHN8Gk3Eud0dz8jw') format('truetype');
 }
