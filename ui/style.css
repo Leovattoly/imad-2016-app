@@ -1,8 +1,10 @@
 body {
   font-family: 'Dancing Script', cursive;
 font-family: 'Gloria Hallelujah', cursive;
-    background-color: lightgrey;
     margin-top: 75px;
+  padding: 20px;
+  background: #fafafa;
+  position: relative;
 }
 
 .center {
